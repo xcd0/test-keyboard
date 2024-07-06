@@ -1,0 +1,6 @@
+github.com/xcd0/tinygo-keyboard v0.0.3 h1:nb+ud4BEosc7FUaMSLBYSCEhyX70iVD5WIZAiAiL45A=
+github.com/xcd0/tinygo-keyboard v0.0.3/go.mod h1:pSzEPjo5LOqSzUIcvalFlZDCbUbtIyd1TqjLHJOtykE=
+golang.org/x/exp v0.0.0-20231226003508-02704c960a9b h1:kLiC65FbiHWFAOu+lxwNPujcsl8VYyTYYEZnsOO1WK4=
+golang.org/x/exp v0.0.0-20231226003508-02704c960a9b/go.mod h1:iRJReGqOEeBhDZGkGbynYwcHlctCvnjTYIamk7uXpHI=
+tinygo.org/x/drivers v0.27.0 h1:TEGk1lQvEhXxfvpEhUu+pwmCnhtldPI+hpHlO9VYixI=
+tinygo.org/x/drivers v0.27.0/go.mod h1:q/mU8G/wz821p8xXqbkBACOlmZFDHXd//DnYnCW+dDQ=
